@@ -1,0 +1,274 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Matera, la Cité des Sassi: Un Voyage Hors du Temps",
+  "budget_total": "1850€",
+  "duree": "9 jours",
+  "date_debut": "2026-02-04",
+  "date_fin": "2026-02-12",
+  "temps_vol": "5h depuis Riviere, France avec escale",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas dans les Sassi",
+      "legende": "Après votre vol et le transfert vers Matera, installez-vous dans votre hôtel troglodyte. Profitez d'une première balade en soirée dans le Sasso Barisano, laissant la magie des lumières nocturnes révéler la beauté intemporelle de cette ville unique.",
+      "lieu": "Matera",
+      "activites": [
+        "🛬 <strong>Arrivée à Matera</strong>: Voyagez de Riviere, France, à Bari en avion, puis prenez un bus ou un train local pour Matera. L'arrivée est une immersion directe dans un paysage hors du commun.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez possession de votre chambre dans un hôtel 3 étoiles niché au cœur des Sassi. L'expérience de dormir dans une habitation troglodyte est inoubliable.",
+        "🚶‍♂️ <strong>Balade nocturne dans le Sasso Barisano</strong>: Laissez-vous guider par les ruelles sinueuses du Sasso Barisano. Les lumières tamisées transforment les habitations en un tableau féerique, offrant une première impression saisissante."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert",
+          "texte": "Depuis l'aéroport de Bari, des bus directs (MarinoBus, FlixBus) ou des trains (Ferrovie Appulo Lucane) vous mènent à Matera en environ 1h30."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚶‍♀️",
+      "titre": "Exploration du Sasso Barisano",
+      "legende": "Plongez au cœur du Sasso Barisano, le quartier le plus \"moderne\" des Sassi, pour y découvrir ses habitations troglodytes restaurées et ses églises rupestres. Une journée dédiée à comprendre l'ingéniosité de l'architecture locale et le mode de vie ancestral.",
+      "lieu": "Matera",
+      "activites": [
+        "🏠 <strong>Visite de la Casa Grotta di Vico Solitario</strong>: Explorez une authentique maison-grotte meublée comme au début du XXe siècle. C'est une fenêtre fascinante sur le quotidien des habitants des Sassi avant leur évacuation.",
+        "⛪ <strong>Découverte de la Chiesa di San Pietro Barisano</strong>: Admirez cette église rupestre, la plus grande de Matera, avec ses fresques médiévales et son architecture creusée dans la roche. Elle témoigne de la richesse spirituelle du lieu.",
+        "🛍️ <strong>Flânerie et artisanat local</strong>: Perdez-vous dans les ruelles du Sasso Barisano, découvrez les boutiques d'artisans locaux proposant céramiques, objets en tuf et produits typiques de la Basilicate."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Portez des chaussures confortables, les rues des Sassi sont pavées et parfois escarpées. L'exploration se fait principalement à pied."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🗿",
+      "titre": "Le Sasso Caveoso et ses Églises Rupestres",
+      "legende": "Aujourd'hui, explorez le Sasso Caveoso, le quartier le plus ancien et le plus évocateur de Matera. Laissez-vous émerveiller par les églises rupestres et les panoramas à couper le souffle, témoins d'une histoire millénaire gravée dans la roche.",
+      "lieu": "Matera",
+      "activites": [
+        "🚶‍♂️ <strong>Exploration du Sasso Caveoso</strong>: Parcourez ce quartier historique où les habitations semblent fusionner avec la roche. C'est ici que l'on ressent le plus l'âme primitive et mystérieuse de Matera.",
+        "⛪ <strong>Visite de Santa Maria de Idris et San Giovanni in Monterrone</strong>: Ces deux églises rupestres, creusées dans un éperon rocheux, offrent des fresques magnifiques et une vue imprenable sur le Sasso Caveoso. Un véritable trésor caché.",
+        "📸 <strong>Panorama depuis la Piazza Vittorio Veneto</strong>: Terminez la journée en admirant la vue panoramique sur les Sassi depuis la Piazza Vittorio Veneto. C'est l'endroit idéal pour saisir l'immensité et la complexité de la ville."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Goûtez au \"Pane di Matera\", un pain traditionnel à la croûte croustillante et à la mie dense, reconnu pour sa longue conservation. Accompagnez-le d'huile d'olive locale."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": " subterranean",
+      "titre": "Matera Sotterranea et Saveurs Locales",
+      "legende": "Plongez dans les profondeurs de Matera pour découvrir son réseau souterrain fascinant, puis émerveillez vos papilles avec un atelier culinaire. Une journée entre histoire cachée et délices gastronomiques, pour une immersion complète dans la culture lucanienne.",
+      "lieu": "Matera",
+      "activites": [
+        "💧 <strong>Exploration du Palombaro Lungo</strong>: Descendez dans cette immense citerne souterraine, véritable cathédrale d'eau, qui alimentait autrefois la ville. C'est une prouesse d'ingénierie hydraulique impressionnante.",
+        "🗝️ <strong>Visite de Matera Sotterranea</strong>: Découvrez un labyrinthe de grottes, de citernes et de tunnels sous la ville moderne. Une plongée dans les strates historiques de Matera, révélant ses secrets enfouis.",
+        "🍝 <strong>Atelier de cuisine lucanienne</strong>: Participez à un cours de cuisine pour apprendre à préparer des plats typiques de la Basilicate, comme les \"orecchiette\" ou les \"cavatelli\". Une expérience savoureuse et conviviale."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🍷",
+          "titre": "Accords mets et vins",
+          "texte": "Accompagnez vos plats locaux d'un verre d'Aglianico del Vulture, un vin rouge puissant et élégant, emblématique de la région de la Basilicate."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏞️",
+      "titre": "Le Parc de la Murgia Materana",
+      "legende": "Traversez la Gravina pour explorer le Parc de la Murgia Materana, un paysage sauvage parsemé de grottes et d'églises rupestres. Profitez de vues imprenables sur Matera depuis l'autre rive, une perspective unique sur la ville des Sassi.",
+      "lieu": "Parc de la Murgia Materana",
+      "activites": [
+        "🚶‍♀️ <strong>Randonnée dans le Parc de la Murgia Materana</strong>: Empruntez les sentiers qui serpentent à travers ce parc naturel. Vous y découvrirez une flore méditerranéenne et des panoramas spectaculaires sur Matera.",
+        "⛪ <strong>Visite des églises rupestres de la Murgia</strong>: Explorez des églises creusées dans la roche, comme la Crypta del Peccato Originale (sur réservation) ou San Falcione. Leurs fresques primitives sont des témoignages artistiques uniques.",
+        "📸 <strong>Point de vue sur Matera</strong>: Depuis le belvédère du parc, admirez la vue emblématique sur les Sassi, surtout au coucher du soleil. C'est une image gravée dans la mémoire, offrant une perspective grandiose sur la ville."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Précautions",
+          "texte": "Le sentier pour traverser la Gravina peut être glissant. Prévoyez de bonnes chaussures de marche et de l'eau. La Crypta del Peccato Originale nécessite une réservation à l'avance."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🖼️",
+      "titre": "Matera, Art et Culture Moderne",
+      "legende": "Découvrez une autre facette de Matera en explorant sa majestueuse Cathédrale et en vous plongeant dans l'art contemporain. Une journée qui marie l'histoire sacrée à la créativité moderne, montrant l'évolution culturelle de la ville au-delà des Sassi.",
+      "lieu": "Matera",
+      "activites": [
+        "⛪ <strong>Visite de la Cathédrale de Matera</strong>: Admirez cette imposante cathédrale romane-apulienne, perchée au point culminant de la ville. Son intérieur baroque et ses vues sur les Sassi sont magnifiques.",
+        "🎨 <strong>Exploration du MUSMA (Musée de la Sculpture Contemporaine)</strong>: Situé dans le Palazzo Pomarici, ce musée unique présente des œuvres d'art contemporain dans un cadre troglodyte. Une fusion surprenante entre l'ancien et le moderne.",
+        "🚶‍♀️ <strong>Découverte de la Matera \"moderne\"</strong>: Promenez-vous dans les rues de la ville haute, au-delà des Sassi, pour découvrir les boutiques, cafés et l'ambiance plus contemporaine de Matera."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Pause café",
+          "texte": "Profitez d'une pause dans un des cafés de la Piazza Vittorio Veneto pour observer l'animation locale et savourer un \"caffè leccese\" (café glacé au lait d'amande)."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏘️",
+      "titre": "Excursion à Alberobello, la Ville des Trulli",
+      "legende": "Évadez-vous pour une journée à Alberobello, un site classé au patrimoine mondial de l'UNESCO, célèbre pour ses \"Trulli\". Découvrez ces habitations coniques uniques, explorez leurs ruelles pittoresques et imprégnez-vous de l'atmosphère féerique de ce village des Pouilles.",
+      "lieu": "Alberobello",
+      "activites": [
+        "🚌 <strong>Voyage vers Alberobello</strong>: Prenez un bus depuis Matera pour rejoindre Alberobello (environ 1h30). Le trajet offre de beaux paysages de la campagne des Pouilles.",
+        "🏡 <strong>Exploration des Trulli</strong>: Flânez dans les quartiers de Rione Monti et Aia Piccola, où des centaines de Trulli blanchis à la chaux s'alignent. Certains abritent des boutiques d'artisanat ou des musées.",
+        "🍽️ <strong>Déjeuner typique dans un Trullo</strong>: Savourez un déjeuner dans un restaurant aménagé dans un Trullo, dégustant des spécialités locales des Pouilles comme les \"orecchiette con le cime di rapa\"."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Meilleur spot photo",
+          "texte": "Pour une vue panoramique sur les Trulli d'Alberobello, montez jusqu'à l'église de Sant'Antonio, elle-même un Trullo, ou au belvédère de la Piazza del Popolo."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🧘‍♀️",
+      "titre": "Journée Libre et Douceur Materana",
+      "legende": "Profitez de cette dernière journée pour vous détendre, revisiter vos lieux préférés ou explorer ce que vous n'avez pas encore eu le temps de voir. Une occasion de s'imprégner une dernière fois de l'ambiance unique de Matera, entre shopping de souvenirs et dégustations.",
+      "lieu": "Matera",
+      "activites": [
+        "🚶‍♀️ <strong>Matinée libre et shopping de souvenirs</strong>: Flânez à votre rythme, achetez des souvenirs artisanaux comme des objets en tuf, des céramiques ou des produits gastronomiques locaux. C'est le moment de trouver le cadeau parfait.",
+        "💆‍♀️ <strong>Détente et bien-être</strong>: Offrez-vous un moment de relaxation dans un spa troglodyte (si disponible et selon votre budget) ou simplement un café en terrasse pour observer la vie locale.",
+        "🌅 <strong>Apéritivo au coucher du soleil</strong>: Terminez votre séjour par un apéritivo dans un bar avec vue sur les Sassi au coucher du soleil. Les couleurs chaudes du ciel sur la pierre créent une atmosphère magique et inoubliable."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le \"cucù\", une petite figurine en terre cuite en forme de coq, est un porte-bonheur traditionnel de Matera. Un souvenir charmant et authentique."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🛫",
+      "titre": "Départ de Matera",
+      "legende": "Après un dernier petit-déjeuner typiquement italien, il est temps de quitter Matera. Emportez avec vous les souvenirs inoubliables de cette ville millénaire, un véritable joyau de l'Italie du Sud, avant de prendre votre vol retour.",
+      "lieu": "Matera / Bari",
+      "activites": [
+        "🥐 <strong>Dernier petit-déjeuner à Matera</strong>: Savourez un dernier \"cornetto\" et un \"cappuccino\" dans un café local. Profitez de l'ambiance matinale des Sassi une dernière fois.",
+        "🧳 <strong>Check-out de l'hôtel</strong>: Préparez vos bagages et effectuez le check-out de votre hôtel. Assurez-vous de n'avoir rien oublié de vos précieux souvenirs.",
+        "✈️ <strong>Transfert vers l'aéroport de Bari et vol retour</strong>: Reprenez le bus ou le train vers l'aéroport de Bari pour votre vol de retour vers Riviere, France. La tête pleine d'images et d'expériences uniques."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport de Bari (environ 1h30 à 2h) et les formalités d'embarquement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "300€/pers (Vol A/R Riviere, France - Bari, classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "100€/pers (Transferts Bari-Matera A/R, transports locaux, excursion Alberobello)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "450€/pers (50€/jour pour 9 jours, restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "800€/pers (100€/nuit pour 8 nuits en hôtel 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "200€/pers (Entrées musées, églises, atelier cuisine, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de avril à juin et septembre à octobre.",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Février offre moins de foule mais des températures plus fraîches (5-12°C).",
+      "symbole": "❄️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Matera, avec environ 60 000 habitants, est la deuxième ville de la Basilicate. Elle est célèbre pour ses \"Sassi\", des habitations troglodytes.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "L'Italie est un pays membre de l'Union Européenne. La monnaie est l'Euro (€).",
+      "symbole": "🇪🇺"
+    },
+    {
+      "titre": "Matera a été Capitale Européenne de la Culture en 2019 et est l'une des plus anciennes villes habitées en continu au monde.",
+      "symbole": "🌟"
+    },
+    {
+      "titre": "Les Sassi sont classés au patrimoine mondial de l'UNESCO depuis 1993, reconnaissant leur valeur historique et architecturale unique.",
+      "symbole": "🌍"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles sur le tourisme en Italie",
+      "titre": "Italia.it",
+      "url": "https://www.italia.it/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Informations touristiques sur la Basilicate",
+      "titre": "Basilicata Turistica",
+      "url": "https://www.basilicataturistica.it/fr/",
+      "symbole": "🗺️"
+    },
+    {
+      "legende": "Horaires des trains en Italie",
+      "titre": "Trenitalia",
+      "url": "https://www.trenitalia.com/fr.html",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo pour Matera",
+      "titre": "Meteo.it",
+      "url": "https://www.meteo.it/meteo/matera-10000000000000000",
+      "symbole": "🌤️"
+    }
+  ]
+}
